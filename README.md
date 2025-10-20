@@ -58,3 +58,10 @@ Modify the `sign.config.toml` file according to your needs.
 
 If you use other versions of QQ, put `{version}.json` in the same directory. For specific content, refer to `src/appinfo/3.2.19-39038.json`.
 
+
+## Praise the spirit of open source
+
+Praise the open-source spirit of our great master 祈洱
+
+Here is the QQ contact information of the expert: 2956419803
+
