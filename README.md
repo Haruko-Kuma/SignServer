@@ -69,6 +69,6 @@ Here is the QQ contact information of the expert: 2956419803
 
 Github: [YosakuraTohu](https://github.com/YosakuraTohu)
 
-The scene of framing：
+frame-up scene：
 <img width="2080" height="952" alt="image" src="https://github.com/user-attachments/assets/d380475b-e1a2-496d-bace-7ccd83915349" />
 
